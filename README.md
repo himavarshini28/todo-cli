@@ -9,8 +9,8 @@ A simple command-line interface (CLI) application to manage your to-do list usin
 ### 1. Clone the Repository
 
 ```sh
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_NAME>
+git clone https://github.com/himavarshini28/todo-cli.git
+cd todo-cli
 ```
 
 ### 2. Install Dependencies
